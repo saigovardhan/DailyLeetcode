@@ -25,4 +25,20 @@ My Journey of consistent leetcode practise
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/saigovardhan/DailyLeetcode/tree/master/0940-fruit-into-baskets) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/saigovardhan/DailyLeetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/saigovardhan/DailyLeetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/saigovardhan/DailyLeetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/saigovardhan/DailyLeetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
