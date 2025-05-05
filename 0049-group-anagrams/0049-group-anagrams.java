@@ -2,17 +2,9 @@ class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
         Map<String, List<String>> seen = new HashMap<>();
         List<List<String>> result = new ArrayList<>();
+
         for (String s : strs) {
-            String res = hashCode(s);
-            List<String> existing = new ArrayList<>();
-            if (seen.containsKey(res)) {
-                existing = seen.get(res);
-                existing.add(s);
-                seen.put(res, existing);
-            } else {
-                existing.add(s);
-                seen.put(res, existing);
-            }
+           seen.computeIfAbsent(hashCode(s), k->new ArrayList<>()).add(s);
         }
 
         for(List<String> e : seen.values()){
