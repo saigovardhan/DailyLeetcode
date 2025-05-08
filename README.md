@@ -6,6 +6,7 @@ My Journey of consistent leetcode practise
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/saigovardhan/DailyLeetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/saigovardhan/DailyLeetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/saigovardhan/DailyLeetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -15,6 +16,7 @@ My Journey of consistent leetcode practise
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/saigovardhan/DailyLeetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
 |  |
@@ -81,6 +83,7 @@ My Journey of consistent leetcode practise
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/saigovardhan/DailyLeetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/saigovardhan/DailyLeetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
