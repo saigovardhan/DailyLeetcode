@@ -43,12 +43,14 @@ My Journey of consistent leetcode practise
 | ------- |
 | [0100-same-tree](https://github.com/saigovardhan/DailyLeetcode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/saigovardhan/DailyLeetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/saigovardhan/DailyLeetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saigovardhan/DailyLeetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/saigovardhan/DailyLeetcode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/saigovardhan/DailyLeetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saigovardhan/DailyLeetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
@@ -56,6 +58,7 @@ My Journey of consistent leetcode practise
 | ------- |
 | [0100-same-tree](https://github.com/saigovardhan/DailyLeetcode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/saigovardhan/DailyLeetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/saigovardhan/DailyLeetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saigovardhan/DailyLeetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Dynamic Programming
@@ -67,6 +70,7 @@ My Journey of consistent leetcode practise
 | ------- |
 | [0100-same-tree](https://github.com/saigovardhan/DailyLeetcode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/saigovardhan/DailyLeetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/saigovardhan/DailyLeetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## String
 |  |
 | ------- |
