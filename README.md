@@ -46,6 +46,7 @@ My Journey of consistent leetcode practise
 | [0104-maximum-depth-of-binary-tree](https://github.com/saigovardhan/DailyLeetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saigovardhan/DailyLeetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/saigovardhan/DailyLeetcode/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -53,6 +54,7 @@ My Journey of consistent leetcode practise
 | [0104-maximum-depth-of-binary-tree](https://github.com/saigovardhan/DailyLeetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saigovardhan/DailyLeetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/saigovardhan/DailyLeetcode/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
@@ -61,6 +63,7 @@ My Journey of consistent leetcode practise
 | [0104-maximum-depth-of-binary-tree](https://github.com/saigovardhan/DailyLeetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saigovardhan/DailyLeetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/saigovardhan/DailyLeetcode/tree/master/0199-binary-tree-right-side-view) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,6 +74,7 @@ My Journey of consistent leetcode practise
 | [0100-same-tree](https://github.com/saigovardhan/DailyLeetcode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/saigovardhan/DailyLeetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saigovardhan/DailyLeetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/saigovardhan/DailyLeetcode/tree/master/0199-binary-tree-right-side-view) |
 ## String
 |  |
 | ------- |
