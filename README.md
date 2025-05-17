@@ -8,6 +8,7 @@ My Journey of consistent leetcode practise
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/saigovardhan/DailyLeetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/saigovardhan/DailyLeetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/saigovardhan/DailyLeetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/saigovardhan/DailyLeetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/saigovardhan/DailyLeetcode/tree/master/0238-product-of-array-except-self) |
@@ -93,10 +94,12 @@ My Journey of consistent leetcode practise
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/saigovardhan/DailyLeetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/saigovardhan/DailyLeetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/saigovardhan/DailyLeetcode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/saigovardhan/DailyLeetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/saigovardhan/DailyLeetcode/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
