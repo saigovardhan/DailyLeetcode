@@ -76,6 +76,7 @@ My Journey of consistent leetcode practise
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/saigovardhan/DailyLeetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/saigovardhan/DailyLeetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 ## Breadth-First Search
 |  |
