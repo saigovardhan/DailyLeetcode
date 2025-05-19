@@ -15,6 +15,7 @@ My Journey of consistent leetcode practise
 | [0283-move-zeroes](https://github.com/saigovardhan/DailyLeetcode/tree/master/0283-move-zeroes) |
 | [0940-fruit-into-baskets](https://github.com/saigovardhan/DailyLeetcode/tree/master/0940-fruit-into-baskets) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/saigovardhan/DailyLeetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3321-type-of-triangle](https://github.com/saigovardhan/DailyLeetcode/tree/master/3321-type-of-triangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,6 +98,7 @@ My Journey of consistent leetcode practise
 | [0049-group-anagrams](https://github.com/saigovardhan/DailyLeetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/saigovardhan/DailyLeetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/saigovardhan/DailyLeetcode/tree/master/0169-majority-element) |
+| [3321-type-of-triangle](https://github.com/saigovardhan/DailyLeetcode/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,4 +117,5 @@ My Journey of consistent leetcode practise
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/saigovardhan/DailyLeetcode/tree/master/0007-reverse-integer) |
+| [3321-type-of-triangle](https://github.com/saigovardhan/DailyLeetcode/tree/master/3321-type-of-triangle) |
 <!---LeetCode Topics End-->
