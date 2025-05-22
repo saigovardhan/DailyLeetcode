@@ -18,6 +18,7 @@ My Journey of consistent leetcode practise
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/saigovardhan/DailyLeetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3321-type-of-triangle](https://github.com/saigovardhan/DailyLeetcode/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/saigovardhan/DailyLeetcode/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/saigovardhan/DailyLeetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,6 +35,7 @@ My Journey of consistent leetcode practise
 | [0209-minimum-size-subarray-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/saigovardhan/DailyLeetcode/tree/master/0238-product-of-array-except-self) |
 | [3639-zero-array-transformation-i](https://github.com/saigovardhan/DailyLeetcode/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/saigovardhan/DailyLeetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +105,7 @@ My Journey of consistent leetcode practise
 | [0075-sort-colors](https://github.com/saigovardhan/DailyLeetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/saigovardhan/DailyLeetcode/tree/master/0169-majority-element) |
 | [3321-type-of-triangle](https://github.com/saigovardhan/DailyLeetcode/tree/master/3321-type-of-triangle) |
+| [3647-zero-array-transformation-iii](https://github.com/saigovardhan/DailyLeetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -126,4 +129,12 @@ My Journey of consistent leetcode practise
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/saigovardhan/DailyLeetcode/tree/master/0073-set-matrix-zeroes) |
+## Greedy
+|  |
+| ------- |
+| [3647-zero-array-transformation-iii](https://github.com/saigovardhan/DailyLeetcode/tree/master/3647-zero-array-transformation-iii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3647-zero-array-transformation-iii](https://github.com/saigovardhan/DailyLeetcode/tree/master/3647-zero-array-transformation-iii) |
 <!---LeetCode Topics End-->
