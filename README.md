@@ -84,6 +84,7 @@ My Journey of consistent leetcode practise
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saigovardhan/DailyLeetcode/tree/master/0005-longest-palindromic-substring) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/saigovardhan/DailyLeetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/saigovardhan/DailyLeetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -99,6 +100,7 @@ My Journey of consistent leetcode practise
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saigovardhan/DailyLeetcode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/saigovardhan/DailyLeetcode/tree/master/0049-group-anagrams) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/saigovardhan/DailyLeetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 ## Sorting
@@ -113,6 +115,7 @@ My Journey of consistent leetcode practise
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saigovardhan/DailyLeetcode/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/saigovardhan/DailyLeetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/saigovardhan/DailyLeetcode/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
