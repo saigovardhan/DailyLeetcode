@@ -14,6 +14,7 @@ My Journey of consistent leetcode practise
 | [0209-minimum-size-subarray-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/saigovardhan/DailyLeetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/saigovardhan/DailyLeetcode/tree/master/0283-move-zeroes) |
+| [0494-target-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/0494-target-sum) |
 | [0940-fruit-into-baskets](https://github.com/saigovardhan/DailyLeetcode/tree/master/0940-fruit-into-baskets) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/saigovardhan/DailyLeetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/saigovardhan/DailyLeetcode/tree/master/3194-find-words-containing-character) |
@@ -87,6 +88,7 @@ My Journey of consistent leetcode practise
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saigovardhan/DailyLeetcode/tree/master/0005-longest-palindromic-substring) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0494-target-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/0494-target-sum) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/saigovardhan/DailyLeetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/saigovardhan/DailyLeetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/saigovardhan/DailyLeetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -151,4 +153,8 @@ My Journey of consistent leetcode practise
 |  |
 | ------- |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/saigovardhan/DailyLeetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
