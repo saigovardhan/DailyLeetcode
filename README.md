@@ -47,6 +47,7 @@ My Journey of consistent leetcode practise
 | [0073-set-matrix-zeroes](https://github.com/saigovardhan/DailyLeetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/saigovardhan/DailyLeetcode/tree/master/0169-majority-element) |
 | [0940-fruit-into-baskets](https://github.com/saigovardhan/DailyLeetcode/tree/master/0940-fruit-into-baskets) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/saigovardhan/DailyLeetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/saigovardhan/DailyLeetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Stack
 |  |
@@ -91,6 +92,7 @@ My Journey of consistent leetcode practise
 | [0005-longest-palindromic-substring](https://github.com/saigovardhan/DailyLeetcode/tree/master/0005-longest-palindromic-substring) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0494-target-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/0494-target-sum) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/saigovardhan/DailyLeetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/saigovardhan/DailyLeetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/saigovardhan/DailyLeetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/saigovardhan/DailyLeetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -134,6 +136,7 @@ My Journey of consistent leetcode practise
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saigovardhan/DailyLeetcode/tree/master/0169-majority-element) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/saigovardhan/DailyLeetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/saigovardhan/DailyLeetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Math
 |  |
@@ -162,4 +165,16 @@ My Journey of consistent leetcode practise
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/0494-target-sum) |
+## Graph
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/saigovardhan/DailyLeetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/saigovardhan/DailyLeetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/saigovardhan/DailyLeetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
