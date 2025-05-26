@@ -108,6 +108,7 @@ My Journey of consistent leetcode practise
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saigovardhan/DailyLeetcode/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/saigovardhan/DailyLeetcode/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/saigovardhan/DailyLeetcode/tree/master/0049-group-anagrams) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/saigovardhan/DailyLeetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/saigovardhan/DailyLeetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
