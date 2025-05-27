@@ -143,6 +143,7 @@ My Journey of consistent leetcode practise
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/saigovardhan/DailyLeetcode/tree/master/0007-reverse-integer) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/saigovardhan/DailyLeetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/saigovardhan/DailyLeetcode/tree/master/3321-type-of-triangle) |
 ## Matrix
 |  |
