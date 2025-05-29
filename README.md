@@ -66,6 +66,7 @@ My Journey of consistent leetcode practise
 | [0199-binary-tree-right-side-view](https://github.com/saigovardhan/DailyLeetcode/tree/master/0199-binary-tree-right-side-view) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/saigovardhan/DailyLeetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/saigovardhan/DailyLeetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/saigovardhan/DailyLeetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -77,6 +78,7 @@ My Journey of consistent leetcode practise
 | [0144-binary-tree-preorder-traversal](https://github.com/saigovardhan/DailyLeetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/saigovardhan/DailyLeetcode/tree/master/0199-binary-tree-right-side-view) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/saigovardhan/DailyLeetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/saigovardhan/DailyLeetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -107,6 +109,7 @@ My Journey of consistent leetcode practise
 | [0104-maximum-depth-of-binary-tree](https://github.com/saigovardhan/DailyLeetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/saigovardhan/DailyLeetcode/tree/master/0199-binary-tree-right-side-view) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/saigovardhan/DailyLeetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/saigovardhan/DailyLeetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## String
 |  |
 | ------- |
