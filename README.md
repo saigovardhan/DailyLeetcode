@@ -16,6 +16,7 @@ My Journey of consistent leetcode practise
 | [0283-move-zeroes](https://github.com/saigovardhan/DailyLeetcode/tree/master/0283-move-zeroes) |
 | [0494-target-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/0494-target-sum) |
 | [0940-fruit-into-baskets](https://github.com/saigovardhan/DailyLeetcode/tree/master/0940-fruit-into-baskets) |
+| [0945-snakes-and-ladders](https://github.com/saigovardhan/DailyLeetcode/tree/master/0945-snakes-and-ladders) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/saigovardhan/DailyLeetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/saigovardhan/DailyLeetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/saigovardhan/DailyLeetcode/tree/master/3194-find-words-containing-character) |
@@ -108,6 +109,7 @@ My Journey of consistent leetcode practise
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/saigovardhan/DailyLeetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saigovardhan/DailyLeetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/saigovardhan/DailyLeetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0945-snakes-and-ladders](https://github.com/saigovardhan/DailyLeetcode/tree/master/0945-snakes-and-ladders) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/saigovardhan/DailyLeetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/saigovardhan/DailyLeetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## String
@@ -156,6 +158,7 @@ My Journey of consistent leetcode practise
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/saigovardhan/DailyLeetcode/tree/master/0073-set-matrix-zeroes) |
+| [0945-snakes-and-ladders](https://github.com/saigovardhan/DailyLeetcode/tree/master/0945-snakes-and-ladders) |
 ## Greedy
 |  |
 | ------- |
