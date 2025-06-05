@@ -122,6 +122,7 @@ My Journey of consistent leetcode practise
 | [0006-zigzag-conversion](https://github.com/saigovardhan/DailyLeetcode/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/saigovardhan/DailyLeetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/saigovardhan/DailyLeetcode/tree/master/0049-group-anagrams) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/saigovardhan/DailyLeetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/saigovardhan/DailyLeetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/saigovardhan/DailyLeetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/saigovardhan/DailyLeetcode/tree/master/3194-find-words-containing-character) |
@@ -204,4 +205,8 @@ My Journey of consistent leetcode practise
 |  |
 | ------- |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/saigovardhan/DailyLeetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+## Union Find
+|  |
+| ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/saigovardhan/DailyLeetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 <!---LeetCode Topics End-->
