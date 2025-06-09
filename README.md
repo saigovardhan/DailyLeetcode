@@ -84,6 +84,7 @@ My Journey of consistent leetcode practise
 | [0124-binary-tree-maximum-path-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saigovardhan/DailyLeetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/saigovardhan/DailyLeetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0386-lexicographical-numbers](https://github.com/saigovardhan/DailyLeetcode/tree/master/0386-lexicographical-numbers) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/saigovardhan/DailyLeetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/saigovardhan/DailyLeetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
@@ -210,6 +211,7 @@ My Journey of consistent leetcode practise
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/saigovardhan/DailyLeetcode/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/saigovardhan/DailyLeetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/saigovardhan/DailyLeetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Enumeration
 |  |
