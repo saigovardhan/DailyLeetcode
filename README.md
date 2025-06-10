@@ -54,6 +54,7 @@ My Journey of consistent leetcode practise
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/saigovardhan/DailyLeetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/saigovardhan/DailyLeetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/saigovardhan/DailyLeetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/saigovardhan/DailyLeetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
 | ------- |
@@ -134,6 +135,7 @@ My Journey of consistent leetcode practise
 | [3194-find-words-containing-character](https://github.com/saigovardhan/DailyLeetcode/tree/master/3194-find-words-containing-character) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/saigovardhan/DailyLeetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/saigovardhan/DailyLeetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/saigovardhan/DailyLeetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
 | ------- |
@@ -161,6 +163,7 @@ My Journey of consistent leetcode practise
 | [0169-majority-element](https://github.com/saigovardhan/DailyLeetcode/tree/master/0169-majority-element) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/saigovardhan/DailyLeetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/saigovardhan/DailyLeetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/saigovardhan/DailyLeetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
 |  |
 | ------- |
