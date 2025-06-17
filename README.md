@@ -179,6 +179,7 @@ My Journey of consistent leetcode practise
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/saigovardhan/DailyLeetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/saigovardhan/DailyLeetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/saigovardhan/DailyLeetcode/tree/master/3321-type-of-triangle) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/saigovardhan/DailyLeetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -237,4 +238,8 @@ My Journey of consistent leetcode practise
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/saigovardhan/DailyLeetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Combinatorics
+|  |
+| ------- |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/saigovardhan/DailyLeetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 <!---LeetCode Topics End-->
