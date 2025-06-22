@@ -13,6 +13,7 @@ My Journey of consistent leetcode practise
 | [0135-candy](https://github.com/saigovardhan/DailyLeetcode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/saigovardhan/DailyLeetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/saigovardhan/DailyLeetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/saigovardhan/DailyLeetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/saigovardhan/DailyLeetcode/tree/master/0283-move-zeroes) |
 | [0494-target-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/0494-target-sum) |
@@ -56,6 +57,7 @@ My Journey of consistent leetcode practise
 | [0049-group-anagrams](https://github.com/saigovardhan/DailyLeetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/saigovardhan/DailyLeetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/saigovardhan/DailyLeetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/saigovardhan/DailyLeetcode/tree/master/0217-contains-duplicate) |
 | [0940-fruit-into-baskets](https://github.com/saigovardhan/DailyLeetcode/tree/master/0940-fruit-into-baskets) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/saigovardhan/DailyLeetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/saigovardhan/DailyLeetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -154,6 +156,7 @@ My Journey of consistent leetcode practise
 | [0049-group-anagrams](https://github.com/saigovardhan/DailyLeetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/saigovardhan/DailyLeetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/saigovardhan/DailyLeetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/saigovardhan/DailyLeetcode/tree/master/0217-contains-duplicate) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/saigovardhan/DailyLeetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/saigovardhan/DailyLeetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/saigovardhan/DailyLeetcode/tree/master/3321-type-of-triangle) |
