@@ -26,6 +26,7 @@ My Journey of consistent leetcode practise
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/saigovardhan/DailyLeetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/saigovardhan/DailyLeetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/saigovardhan/DailyLeetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/saigovardhan/DailyLeetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/saigovardhan/DailyLeetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/saigovardhan/DailyLeetcode/tree/master/3194-find-words-containing-character) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/saigovardhan/DailyLeetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -100,6 +101,7 @@ My Journey of consistent leetcode practise
 | [0144-binary-tree-preorder-traversal](https://github.com/saigovardhan/DailyLeetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/saigovardhan/DailyLeetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0386-lexicographical-numbers](https://github.com/saigovardhan/DailyLeetcode/tree/master/0386-lexicographical-numbers) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/saigovardhan/DailyLeetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/saigovardhan/DailyLeetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/saigovardhan/DailyLeetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
@@ -134,6 +136,7 @@ My Journey of consistent leetcode practise
 | [0199-binary-tree-right-side-view](https://github.com/saigovardhan/DailyLeetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0945-snakes-and-ladders](https://github.com/saigovardhan/DailyLeetcode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/saigovardhan/DailyLeetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/saigovardhan/DailyLeetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/saigovardhan/DailyLeetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/saigovardhan/DailyLeetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## String
@@ -206,6 +209,7 @@ My Journey of consistent leetcode practise
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/saigovardhan/DailyLeetcode/tree/master/0073-set-matrix-zeroes) |
 | [0945-snakes-and-ladders](https://github.com/saigovardhan/DailyLeetcode/tree/master/0945-snakes-and-ladders) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/saigovardhan/DailyLeetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -264,6 +268,7 @@ My Journey of consistent leetcode practise
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/saigovardhan/DailyLeetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/saigovardhan/DailyLeetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Combinatorics
 |  |
 | ------- |
