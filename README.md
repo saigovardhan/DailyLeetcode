@@ -147,6 +147,7 @@ My Journey of consistent leetcode practise
 | [0014-longest-common-prefix](https://github.com/saigovardhan/DailyLeetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/saigovardhan/DailyLeetcode/tree/master/0049-group-anagrams) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/saigovardhan/DailyLeetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/saigovardhan/DailyLeetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/saigovardhan/DailyLeetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/saigovardhan/DailyLeetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/saigovardhan/DailyLeetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -189,6 +190,7 @@ My Journey of consistent leetcode practise
 | ------- |
 | [0169-majority-element](https://github.com/saigovardhan/DailyLeetcode/tree/master/0169-majority-element) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/saigovardhan/DailyLeetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/saigovardhan/DailyLeetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/saigovardhan/DailyLeetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/saigovardhan/DailyLeetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/saigovardhan/DailyLeetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -215,6 +217,7 @@ My Journey of consistent leetcode practise
 | ------- |
 | [0135-candy](https://github.com/saigovardhan/DailyLeetcode/tree/master/0135-candy) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/saigovardhan/DailyLeetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/saigovardhan/DailyLeetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/saigovardhan/DailyLeetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/saigovardhan/DailyLeetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/saigovardhan/DailyLeetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -238,6 +241,7 @@ My Journey of consistent leetcode practise
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/0494-target-sum) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/saigovardhan/DailyLeetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Graph
 |  |
 | ------- |
@@ -261,6 +265,7 @@ My Journey of consistent leetcode practise
 ## Enumeration
 |  |
 | ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/saigovardhan/DailyLeetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/saigovardhan/DailyLeetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/saigovardhan/DailyLeetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/saigovardhan/DailyLeetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
