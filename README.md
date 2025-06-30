@@ -17,6 +17,7 @@ My Journey of consistent leetcode practise
 | [0238-product-of-array-except-self](https://github.com/saigovardhan/DailyLeetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/saigovardhan/DailyLeetcode/tree/master/0283-move-zeroes) |
 | [0494-target-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/0494-target-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/saigovardhan/DailyLeetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/saigovardhan/DailyLeetcode/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/saigovardhan/DailyLeetcode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/saigovardhan/DailyLeetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -48,6 +49,7 @@ My Journey of consistent leetcode practise
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/saigovardhan/DailyLeetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/saigovardhan/DailyLeetcode/tree/master/0940-fruit-into-baskets) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/saigovardhan/DailyLeetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Prefix Sum
@@ -65,6 +67,7 @@ My Journey of consistent leetcode practise
 | [0073-set-matrix-zeroes](https://github.com/saigovardhan/DailyLeetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/saigovardhan/DailyLeetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saigovardhan/DailyLeetcode/tree/master/0217-contains-duplicate) |
+| [0594-longest-harmonious-subsequence](https://github.com/saigovardhan/DailyLeetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/saigovardhan/DailyLeetcode/tree/master/0940-fruit-into-baskets) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/saigovardhan/DailyLeetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -171,6 +174,7 @@ My Journey of consistent leetcode practise
 | [0075-sort-colors](https://github.com/saigovardhan/DailyLeetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/saigovardhan/DailyLeetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saigovardhan/DailyLeetcode/tree/master/0217-contains-duplicate) |
+| [0594-longest-harmonious-subsequence](https://github.com/saigovardhan/DailyLeetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/saigovardhan/DailyLeetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/saigovardhan/DailyLeetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -196,6 +200,7 @@ My Journey of consistent leetcode practise
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saigovardhan/DailyLeetcode/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/saigovardhan/DailyLeetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/saigovardhan/DailyLeetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/saigovardhan/DailyLeetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/saigovardhan/DailyLeetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
