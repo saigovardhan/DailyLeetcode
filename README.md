@@ -22,6 +22,7 @@ My Journey of consistent leetcode practise
 | [0945-snakes-and-ladders](https://github.com/saigovardhan/DailyLeetcode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/saigovardhan/DailyLeetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/saigovardhan/DailyLeetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/saigovardhan/DailyLeetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/saigovardhan/DailyLeetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
