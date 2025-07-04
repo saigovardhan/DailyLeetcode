@@ -221,6 +221,7 @@ My Journey of consistent leetcode practise
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/saigovardhan/DailyLeetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/saigovardhan/DailyLeetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/saigovardhan/DailyLeetcode/tree/master/3321-type-of-triangle) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/saigovardhan/DailyLeetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/saigovardhan/DailyLeetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/saigovardhan/DailyLeetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Matrix
@@ -255,6 +256,7 @@ My Journey of consistent leetcode practise
 |  |
 | ------- |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/saigovardhan/DailyLeetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/saigovardhan/DailyLeetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -300,4 +302,8 @@ My Journey of consistent leetcode practise
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/saigovardhan/DailyLeetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+## Recursion
+|  |
+| ------- |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/saigovardhan/DailyLeetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 <!---LeetCode Topics End-->
