@@ -25,6 +25,7 @@ My Journey of consistent leetcode practise
 | [1510-find-lucky-integer-in-an-array](https://github.com/saigovardhan/DailyLeetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/saigovardhan/DailyLeetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/saigovardhan/DailyLeetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/saigovardhan/DailyLeetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -76,6 +77,7 @@ My Journey of consistent leetcode practise
 | [1364-tuple-with-same-product](https://github.com/saigovardhan/DailyLeetcode/tree/master/1364-tuple-with-same-product) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/saigovardhan/DailyLeetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/saigovardhan/DailyLeetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/saigovardhan/DailyLeetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/saigovardhan/DailyLeetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -312,4 +314,8 @@ My Journey of consistent leetcode practise
 |  |
 | ------- |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/saigovardhan/DailyLeetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
