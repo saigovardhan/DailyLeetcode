@@ -11,6 +11,7 @@ My Journey of consistent leetcode practise
 | [0073-set-matrix-zeroes](https://github.com/saigovardhan/DailyLeetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/saigovardhan/DailyLeetcode/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/saigovardhan/DailyLeetcode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/saigovardhan/DailyLeetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/saigovardhan/DailyLeetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/saigovardhan/DailyLeetcode/tree/master/0217-contains-duplicate) |
@@ -267,6 +268,7 @@ My Journey of consistent leetcode practise
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/saigovardhan/DailyLeetcode/tree/master/0136-single-number) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/saigovardhan/DailyLeetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/saigovardhan/DailyLeetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Backtracking
