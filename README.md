@@ -78,6 +78,7 @@ My Journey of consistent leetcode practise
 | [0073-set-matrix-zeroes](https://github.com/saigovardhan/DailyLeetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/saigovardhan/DailyLeetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saigovardhan/DailyLeetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/saigovardhan/DailyLeetcode/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/saigovardhan/DailyLeetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/saigovardhan/DailyLeetcode/tree/master/0940-fruit-into-baskets) |
 | [1364-tuple-with-same-product](https://github.com/saigovardhan/DailyLeetcode/tree/master/1364-tuple-with-same-product) |
@@ -170,6 +171,7 @@ My Journey of consistent leetcode practise
 | [0006-zigzag-conversion](https://github.com/saigovardhan/DailyLeetcode/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/saigovardhan/DailyLeetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/saigovardhan/DailyLeetcode/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/saigovardhan/DailyLeetcode/tree/master/0242-valid-anagram) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/saigovardhan/DailyLeetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/saigovardhan/DailyLeetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/saigovardhan/DailyLeetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -193,6 +195,7 @@ My Journey of consistent leetcode practise
 | [0075-sort-colors](https://github.com/saigovardhan/DailyLeetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/saigovardhan/DailyLeetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saigovardhan/DailyLeetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/saigovardhan/DailyLeetcode/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/saigovardhan/DailyLeetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/saigovardhan/DailyLeetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/saigovardhan/DailyLeetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
