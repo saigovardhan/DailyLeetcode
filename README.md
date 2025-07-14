@@ -17,6 +17,7 @@ My Journey of consistent leetcode practise
 | [0217-contains-duplicate](https://github.com/saigovardhan/DailyLeetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/saigovardhan/DailyLeetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/saigovardhan/DailyLeetcode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/saigovardhan/DailyLeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0494-target-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/0494-target-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/saigovardhan/DailyLeetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/saigovardhan/DailyLeetcode/tree/master/0940-fruit-into-baskets) |
@@ -79,6 +80,7 @@ My Journey of consistent leetcode practise
 | [0169-majority-element](https://github.com/saigovardhan/DailyLeetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saigovardhan/DailyLeetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saigovardhan/DailyLeetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/saigovardhan/DailyLeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/saigovardhan/DailyLeetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/saigovardhan/DailyLeetcode/tree/master/0940-fruit-into-baskets) |
 | [1364-tuple-with-same-product](https://github.com/saigovardhan/DailyLeetcode/tree/master/1364-tuple-with-same-product) |
@@ -196,6 +198,7 @@ My Journey of consistent leetcode practise
 | [0169-majority-element](https://github.com/saigovardhan/DailyLeetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saigovardhan/DailyLeetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saigovardhan/DailyLeetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/saigovardhan/DailyLeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/saigovardhan/DailyLeetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/saigovardhan/DailyLeetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/saigovardhan/DailyLeetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -221,10 +224,12 @@ My Journey of consistent leetcode practise
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/saigovardhan/DailyLeetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/saigovardhan/DailyLeetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/saigovardhan/DailyLeetcode/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saigovardhan/DailyLeetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/saigovardhan/DailyLeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/saigovardhan/DailyLeetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1364-tuple-with-same-product](https://github.com/saigovardhan/DailyLeetcode/tree/master/1364-tuple-with-same-product) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/saigovardhan/DailyLeetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -274,6 +279,7 @@ My Journey of consistent leetcode practise
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/saigovardhan/DailyLeetcode/tree/master/0347-top-k-frequent-elements) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/saigovardhan/DailyLeetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/saigovardhan/DailyLeetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2479-meeting-rooms-iii](https://github.com/saigovardhan/DailyLeetcode/tree/master/2479-meeting-rooms-iii) |
@@ -344,4 +350,12 @@ My Journey of consistent leetcode practise
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saigovardhan/DailyLeetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saigovardhan/DailyLeetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saigovardhan/DailyLeetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
